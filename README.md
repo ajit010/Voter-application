@@ -33,6 +33,4 @@ Previews should run automatically when starting a workspace.
 7. gcloud app create --region=us-central1
 8. gcloud app deploy
 9. gcloud app browse
-10. gcloud app logs tail -s default 
-
-11. 
+10. gcloud app logs tail -s default
